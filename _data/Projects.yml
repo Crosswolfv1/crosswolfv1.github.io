@@ -2,14 +2,6 @@ subject: Projects
 listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Journey Like a Genius"
-    description: 
-      - "Deployed: [https://journeylikeagenius.netlify.app/](https://journeylikeagenius.netlify.app/)"
-      - "GitHub: [https://github.com/Crosswolfv1/journey_like_a_genius_fe](https://github.com/Crosswolfv1/journey_like_a_genius_fe)"
-      - Travel Itinerary utilizing Google Places API to recommend locations
-      - Full Stack Development project built with a Ruby on Rails Backend and a Javascript/React Frontend
-      - "Technology Used: Ruby, RoR, Javascript, React, Rspec, Cypress, Git, Github, test driven development"
-    image: "![](../assets/img/journey-like-a-genius.gif)"
   - title: "Tracker by Turing"
     description: 
       - "Deployed: [https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/)"
@@ -20,3 +12,11 @@ contents:
       - Implemented error handling to improve user experience
       - "Technology Used: Ruby on Rails, PostgresQL, API, TDD, RSpec, TSX, React, Tailwind, Cypress, CircleCI"
     image: "![](../assets/img/tracker.png)"
+  - title: "Journey Like a Genius"
+    description: 
+      - "Deployed: [https://journeylikeagenius.netlify.app/](https://journeylikeagenius.netlify.app/)"
+      - "GitHub: [https://github.com/Crosswolfv1/journey_like_a_genius_fe](https://github.com/Crosswolfv1/journey_like_a_genius_fe)"
+      - Travel Itinerary utilizing Google Places API to recommend locations
+      - Full Stack Development project built with a Ruby on Rails Backend and a Javascript/React Frontend
+      - "Technology Used: Ruby, RoR, Javascript, React, Rspec, Cypress, Git, Github, test driven development"
+    image: "![](../assets/img/journey-like-a-genius.gif)"
