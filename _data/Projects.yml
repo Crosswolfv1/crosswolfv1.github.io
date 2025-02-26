@@ -5,7 +5,7 @@ contents:
   - title: "Tracker by Turing"
     description: 
       - "Deployed: [https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/)"
-      - "GitHub[https://github.com/turingschool/tracker-crm-fe](https://github.com/turingschool/tracker-crm-fe)"
+      - "GitHub: [https://github.com/turingschool/tracker-crm-fe](https://github.com/turingschool/tracker-crm-fe)"
       - Web application to track job search, allowing users to record contacts, companies, and job applications
       - Maintained RESTful routes on the BE API, refactored existing code to follow SRP and Rails standards, to DRY it up
       - Builtout functionality for user session management and seamless logout
