@@ -7,8 +7,8 @@ contents:
       - "Deployed: [https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/)"
       - "GitHub[https://github.com/turingschool/tracker-crm-fe](https://github.com/turingschool/tracker-crm-fe)"
       - Web application to track job search, allowing users to record contacts, companies, and job applications
-      - Maintained RESTful routes on the BE API, refactored existing code to follow SRP and Rails standards
-      - Built functionality for user session management and seamless logout
+      - Maintained RESTful routes on the BE API, refactored existing code to follow SRP and Rails standards, to DRY it up
+      - Builtout functionality for user session management and seamless logout
       - Implemented error handling to improve user experience
       - "Technology Used: Ruby on Rails, PostgresQL, API, TDD, RSpec, TSX, React, Tailwind, Cypress, CircleCI"
     image: "![](../assets/img/tracker.png)"
@@ -18,5 +18,7 @@ contents:
       - "GitHub: [https://github.com/Crosswolfv1/journey_like_a_genius_fe](https://github.com/Crosswolfv1/journey_like_a_genius_fe)"
       - Travel Itinerary utilizing Google Places API to recommend locations
       - Full Stack Development project built with a Ruby on Rails Backend and a Javascript/React Frontend
+      - Designed the BE API database, to allow for accurate recording of user's and their itineraries.
+      - Built out fetch requests on the FE which relied upon external API, massaged input to have the endpoint desired data in a desired format
       - "Technology Used: Ruby, RoR, Javascript, React, Rspec, Cypress, Git, Github, test driven development"
     image: "![](../assets/img/journey-like-a-genius.gif)"
