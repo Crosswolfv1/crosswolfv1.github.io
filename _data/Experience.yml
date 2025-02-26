@@ -2,21 +2,52 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Leidos
+    role: Senior Service Desk Administrator
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Maintained a positive workflow during a multi-month transition
+      - Built processes for handling tickets and phone calls, coordinated between Service Desk and Developers’ ticketing systems
+      - Wrote training documents to accelerate the growth of new personnel
+      - Created knowledge articles to preempt common customer issues and solutions in the field
+    date: Feb. 2024 - Present
+  - title: Technica Corporation
+    role: Senior Service Desk Administrator
+    description:
+      - Trained 8 service desk technicians and platform admins
+      - Supported 13 releases of an Air Force cybersecurity platform, improving incident resolution efficiency
+      - Resolved 348 Tier 2/3 incidents, enabling national defense missions
+      - Provided phone support for 56+ Air Force and DoD cyber defense teams
+      - Developed knowledge articles for common customer challenges, improving platform deployment and maintenance
+      - Presented operational metrics and incident workflows to upper-level leadership
+    date: May 2020 - Feb. 2024
+  - title: Insight Global
+    role: Service Desk Administrator
+    description:
+      - Supported 1,600 personnel across 106 sites, including contractors, civil servants, and military personnel
+      - Resolved 92 helpdesk tickets of varying priorities and provided phone support as needed
+      - Delivered support for systems valued at $180,000 per kit
+    date: Nov. 2019 - May 2020
+  - title: SMS Data Products Group, Inc.
+    role: Senior Helpdesk Specialist
+    description:
+      - Supported 1,500 personnel across 8 sites, including contractors, civil servants, and military members
+      - Primary Helpdesk Technician for 3 sites, servicing 450 users
+      - Completed 109 helpdesk tickets and resolved numerous unreported customer issues
+      - Led 5 projects to grant teams efficient access to cybersecurity platforms and secure networks
+      - Received a letter of appreciation for project efficiency involving $2,400 of equipment installation
+    date: Jul. 2019 - Nov. 2019
+  - title: U.S. Air Force
+    role: IT Helpdesk Lead
+    description:
+      - Led a shift of 11 individuals, completing 300+ support tickets daily across 12 sites for 12,000 users
+      - Revamped training for 21 personnel, boosting new employee efficiency
+      - Briefed senior leadership on work center functions, network health, and helpdesk metrics
+      - Conducted internal audits and recurring training to drive continuous process improvement
+    date: Sep. 2015 - Sep. 2019
+  - title: U.S. Air Force
+    role: IT Helpdesk Technician
+    description:
+      - Monitored and maintained an enterprise-level network across 12 sites for 12,000 users
+      - Resolved 750 helpdesk tickets
+      - Completed USAF Journeyman Training tasks 2 months ahead of schedule
+    date: Sep. 2014 - Sep. 2015
